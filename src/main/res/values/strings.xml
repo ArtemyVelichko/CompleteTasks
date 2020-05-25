@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CompleteTasks</string>
+    <string name="add_new_task_strong">Добавить новую задачу</string>
+    <string name="update">Обновить состояние задачи</string>
+    <string name="update_tasks">обновить</string>
+    <string name="insert_text">Напишите текст:</string>
+    <string name="update_state">Обновить состояния</string>
+    <string name="add_new_task">добавить новую задачу</string>
+    <string name="menu">Меню</string>
+</resources>
